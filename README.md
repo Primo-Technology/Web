@@ -1,2 +1,2 @@
 # Web
-Mobile application fro primo
+Web application fro primo
